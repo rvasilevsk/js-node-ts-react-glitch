@@ -9,8 +9,8 @@
 http://localhost:3000/
 
 
-[React и TypeScript - Быстрый Курс [2022] - YouTube](https://www.youtube.com/watch?v=OJ16BaPC6VI)
-[GitHub - vladilenm/react-fast-2022](https://github.com/vladilenm/react-fast-2022)
+- [React и TypeScript - Быстрый Курс [2022] - YouTube](https://www.youtube.com/watch?v=OJ16BaPC6VI)
+- [GitHub - vladilenm/react-fast-2022](https://github.com/vladilenm/react-fast-2022)
 
 ```bash
 npx create-react-app --template typescript .
