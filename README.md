@@ -1,3 +1,23 @@
+# todo
+- textarea simplify
+- icon gen multy
+- converter
+- anki
+- ogg play, playlist
+
+
+http://localhost:3000/
+
+
+[React и TypeScript - Быстрый Курс [2022] - YouTube](https://www.youtube.com/watch?v=OJ16BaPC6VI)
+[GitHub - vladilenm/react-fast-2022](https://github.com/vladilenm/react-fast-2022)
+
+```bash
+npx create-react-app --template typescript .
+```
+
+---------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
